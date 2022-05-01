@@ -70,6 +70,7 @@ li {
   top: 0;
   z-index: 1;
   width: 100%;
+  background-color: white;
 }
 
 .header-inner {
@@ -131,7 +132,7 @@ li {
 .split-img {
   width: 50%;
   height: 95vh;
-  background-image: url(../img/mv.jpg);
+  background-image: url(../img/cat.JPEG);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
