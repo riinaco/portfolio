@@ -142,7 +142,7 @@ li {
   font-size: 42px;
   font-weight: bold;
   line-height: 1.2;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
   letter-spacing: .05em;
 }
 
@@ -360,7 +360,7 @@ li {
   .split-img {
     width: 100%;
     height: 67vh;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     background-image: url(../img/cat2.JPEG);
   }
 
