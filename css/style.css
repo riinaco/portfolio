@@ -425,6 +425,8 @@ li {
 
 .article li{
   list-style: none;
+  margin: 10px;
+  margin-bottom: 40px;
   
 
 }
